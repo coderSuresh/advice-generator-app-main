@@ -1,0 +1,54 @@
+@media (max-width:600px) {
+    main {
+        width: 350px;
+    }
+
+    #desktop-divider {
+        display: none;
+    }
+
+    #mobile-divider {
+        display: block;
+    }
+
+    .advice {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width:440px) {
+    main {
+        width: 300px;
+    }
+
+    .advice {
+        font-size: 1.4rem;
+    }
+}
+
+@media (max-width:375px) {
+    main {
+        width: 80%;
+    }
+
+    #mobile-divider,
+    #desktop-divider {
+        margin: 10px 0 30px;
+    }
+
+    .advice {
+        font-size: 1.25rem;
+    }
+}
+
+@media (max-width:305px) {
+    main {
+        width: 200px;
+        padding: 20px;
+    }
+
+    #mobile-divider,
+    #desktop-divider {
+        width: 100%;
+    }
+}

@@ -29,3 +29,6 @@ The designs were created to the following widths:
 
 - Family: [Manrope](https://fonts.google.com/specimen/Manrope)
 - Weights: 800
+
+- font-family: 'Manrope', sans-serif;
+- @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap');
