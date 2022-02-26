@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot.png))
+![](./images/screenshot.png)
 
 ### Links
 
@@ -55,6 +55,6 @@ By solving this challenge, I learned to fetch data from third party API and disp
 
 ## Author
 
-- Website - [Coder Suresh](https://codersuresh.github.io
+- Website - [Coder Suresh](https://codersuresh.github.io)
 - Frontend Mentor - [@codersuresh](https://www.frontendmentor.io/profile/codersuresh)
 - Twitter - [@codersuresh](https://www.twitter.com/codersuresh)
